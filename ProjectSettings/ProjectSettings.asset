@@ -241,7 +241,7 @@ PlayerSettings:
   AndroidTargetArchitectures: 5
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: D:/Unity projekter/card generator/user.keystore
+  AndroidKeystoreName: D:/Unity projekter/card generator/Ungaalborg-Kort/user.keystore
   AndroidKeyaliasName: keystore
   AndroidTVCompatibility: 1
   AndroidIsGame: 1
